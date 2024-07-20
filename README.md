@@ -7,11 +7,11 @@ Works by modifying registry value of current user to set AutoLoginUser to whatev
 Instructions:
 1. Download release
     Click SteamGameStarter.ps1 in files above
-    On new page, click the 3 dots near top right, download file. 
+    On new page, click the 3 dots near top right, download file. <br/>
     ![alt text](image.png)
 
 2. Right click > PROPERTIES
-    Unblock [X]
+    Unblock [X]<br/>
     ![alt text](image-8.png)
 
 3. Right click > EDIT WITH NOTEPAD (should be at bottom)
